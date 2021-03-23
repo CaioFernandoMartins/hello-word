@@ -1,2 +1,0 @@
-# hello-word
-Um repositório
